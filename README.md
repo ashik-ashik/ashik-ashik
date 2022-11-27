@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ###Md Ashik Ali
+### 👋 Hi, I’m Md Ashik Ali
 - 👀 I’m interested in Web Desinging and Development. I'm profesient in MERN stack web development.
 - 🌱 I’m currently learning Reacr-Redux and MongoDB advance.
 - 💞️ I’m looking to collaborate on ...
